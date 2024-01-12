@@ -1,1 +1,0 @@
-Predicting the fed funds rate using unemployment, number of new housing builds, and inflation. Models are created using polynomial degrees of 1, 2, and 3 and compared using the out-of-sample mean squared error.
